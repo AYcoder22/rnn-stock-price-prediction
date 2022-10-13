@@ -11,6 +11,9 @@ Note: These parameters can be changed as per requirements.
 
 ## Neural Network Model
 
+![image](https://user-images.githubusercontent.com/69795479/195600984-63bc9af1-7ce3-4ddf-ad6b-08dc9f4681cd.png)
+
+
 60 Inputs with 60 Neurons in the RNN Layer (hidden) and one neuron for the Output Layer.
 
 ![image](https://user-images.githubusercontent.com/69795479/195600743-1b104264-abcf-454e-9807-62c09cb6741c.png)
@@ -102,6 +105,6 @@ plt.show()
 
 ### Mean Square Error
 
-Include the mean square error
+![image](https://user-images.githubusercontent.com/69795479/195601061-76f52faf-5d11-4100-bca9-ebbb8ad5c155.png)
 
 ## RESULT
